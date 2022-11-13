@@ -1,0 +1,19 @@
+2022-11-07 21:54:05.778 [info] Extension host with pid 364 started
+2022-11-07 21:54:05.838 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/975c43559167303c51ed537741b2a536/vscode.lock': Lock acquired.
+2022-11-07 21:54:07.004 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2022-11-07 21:54:07.006 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2022-11-07 21:54:07.006 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2022-11-07 21:54:07.006 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2022-11-07 21:54:07.007 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-11-07 21:54:07.472 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-11-07 21:54:07.472 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-11-07 21:54:07.808 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-11-07 21:54:07.809 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-11-07 21:54:07.810 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-11-07 21:54:07.810 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2022-11-07 21:54:07.811 [info] Eager extensions activated
+2022-11-07 21:54:09.481 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-11-07 22:17:54.265 [info] ExtensionService#_doActivateExtension NomicFoundation.hardhat-solidity, startup: false, activationEvent: 'onLanguage:solidity'
+2022-11-07 22:57:09.334 [info] Extension host terminating: received terminate message from renderer
+2022-11-07 22:57:09.335 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/975c43559167303c51ed537741b2a536/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-11-07 22:57:09.417 [info] Extension host with pid 364 exiting with code 0

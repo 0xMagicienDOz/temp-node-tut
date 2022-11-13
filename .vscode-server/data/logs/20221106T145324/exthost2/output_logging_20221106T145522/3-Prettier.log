@@ -1,0 +1,35 @@
+["INFO" - 2:55:24 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 2:55:24 PM] Extension Version: 9.9.0.
+["INFO" - 2:56:21 PM] Formatting file:///root/deploy.js
+["INFO" - 2:56:21 PM] Using ignore file (if present) at /root/.prettierignore
+["INFO" - 2:56:21 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:56:21 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 2:56:21 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/root/deploy.js",
+  "parser": "babel"
+}
+["INFO" - 2:56:22 PM] Formatting completed in 103ms.

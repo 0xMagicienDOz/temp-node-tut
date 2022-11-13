@@ -1,0 +1,10 @@
+2022-11-10 18:45:42.015 [info] Extension host agent started.
+2022-11-10 18:45:42.530 [info] [127.0.0.1][5ac1c48c][ManagementConnection] New connection established.
+2022-11-10 18:45:44.851 [info] [127.0.0.1][9700cc3f][ExtensionHostConnection] New connection established.
+2022-11-10 18:45:45.218 [info] [127.0.0.1][9700cc3f][ExtensionHostConnection] <274> Launched Extension Host Process.
+2022-11-10 19:30:35.979 [warning] No ptyHost heartbeat after 6 seconds
+2022-11-10 20:39:15.099 [info] [127.0.0.1][5ac1c48c][ManagementConnection] The client has reconnected.
+2022-11-10 20:39:15.203 [info] [127.0.0.1][9700cc3f][ExtensionHostConnection] The client has reconnected.
+2022-11-10 21:43:07.181 [warning] No ptyHost heartbeat after 6 seconds
+2022-11-11 08:31:18.053 [info] [127.0.0.1][5ac1c48c][ManagementConnection] The client has reconnected.
+2022-11-11 08:31:18.830 [info] [127.0.0.1][9700cc3f][ExtensionHostConnection] The client has reconnected.

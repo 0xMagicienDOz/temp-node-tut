@@ -1,0 +1,20 @@
+2022-11-10 18:38:02.255 [info] Extension host with pid 1082 started
+2022-11-10 18:38:02.329 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/975c43559167303c51ed537741b2a536/vscode.lock': Lock acquired.
+2022-11-10 18:38:03.132 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2022-11-10 18:38:03.144 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-11-10 18:38:03.265 [error] No bundle location found for extension vscode.typescript-language-features
+2022-11-10 18:38:04.758 [error] No bundle location found for extension vscode.git-base
+2022-11-10 18:38:04.803 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-11-10 18:38:04.811 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-11-10 18:38:06.323 [error] No bundle location found for extension vscode.git
+2022-11-10 18:38:06.323 [error] No bundle location found for extension vscode.github
+2022-11-10 18:38:07.797 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-11-10 18:38:07.802 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-11-10 18:38:07.805 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-11-10 18:38:07.812 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2022-11-10 18:38:07.815 [info] Eager extensions activated
+2022-11-10 18:38:08.194 [error] No bundle location found for extension vscode.debug-auto-launch
+2022-11-10 18:38:08.329 [error] No bundle location found for extension vscode.emmet
+2022-11-10 18:38:08.330 [error] No bundle location found for extension vscode.merge-conflict
+2022-11-10 18:38:08.330 [error] No bundle location found for extension vscode.npm
+2022-11-10 18:38:10.264 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'

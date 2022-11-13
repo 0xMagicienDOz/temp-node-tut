@@ -1,0 +1,38 @@
+2022-11-13 09:29:30.045 [info] Extension host with pid 364 started
+2022-11-13 09:29:30.148 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/975c43559167303c51ed537741b2a536/vscode.lock': Lock acquired.
+2022-11-13 09:29:30.427 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2022-11-13 09:29:30.430 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-11-13 09:29:30.435 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2022-11-13 09:29:30.824 [error] No bundle location found for extension vscode.typescript-language-features
+2022-11-13 09:29:31.013 [error] No bundle location found for extension vscode.git-base
+2022-11-13 09:29:31.013 [error] No bundle location found for extension vscode.npm
+2022-11-13 09:29:31.454 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-11-13 09:29:31.455 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-11-13 09:29:31.642 [error] No bundle location found for extension vscode.git
+2022-11-13 09:29:31.642 [error] No bundle location found for extension vscode.github
+2022-11-13 09:29:32.144 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-11-13 09:29:32.145 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-11-13 09:29:32.146 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-11-13 09:29:32.157 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2022-11-13 09:29:32.157 [info] Eager extensions activated
+2022-11-13 09:29:32.544 [error] No bundle location found for extension vscode.debug-auto-launch
+2022-11-13 09:29:32.544 [error] No bundle location found for extension vscode.emmet
+2022-11-13 09:29:32.544 [error] No bundle location found for extension vscode.merge-conflict
+2022-11-13 09:39:02.290 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4457
+2022-11-13 09:39:04.025 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4457
+2022-11-13 09:39:09.117 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4457
+2022-11-13 09:39:14.197 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4457
+2022-11-13 09:39:19.331 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4457
+2022-11-13 09:39:24.438 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4458
+2022-11-13 09:39:29.520 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4458
+2022-11-13 09:39:34.600 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4458
+2022-11-13 09:39:41.135 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4458
+2022-11-13 09:39:46.220 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4460
+2022-11-13 09:39:51.291 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4461
+2022-11-13 09:39:56.363 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4461
+2022-11-13 09:40:01.454 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4461
+2022-11-13 09:40:06.560 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4461
+2022-11-13 09:40:11.633 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4461
+2022-11-13 09:40:17.184 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4461
+2022-11-13 09:40:22.256 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4461
+2022-11-13 09:40:27.347 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4461

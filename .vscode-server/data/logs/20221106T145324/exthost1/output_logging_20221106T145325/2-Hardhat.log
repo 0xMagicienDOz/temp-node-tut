@@ -1,0 +1,19 @@
+[Info  - 2:54:54 PM] Hardhat for Visual Studio Code Starting ...
+[Info  - 2:54:54 PM] env: production
+[Info  - 2:54:54 PM] Client starting
+[Info  - 2:54:54 PM] Language server starting
+[Info  - 2:54:54 PM]   Release: hardhat-solidity@0.5.5
+[Info  - 2:54:54 PM]   Environment: production
+[Info  - 2:54:54 PM]   Telemetry Enabled: true
+[Info  - 2:54:54 PM]   Telemetry Tracking Id: bf848fac97...
+[Info  - 2:54:54 PM]   Workspace Folders: none
+[Info  - 2:54:54 PM] [indexing:1] Starting indexing job ...
+[Info  - 2:54:54 PM] Language server ready
+[Info  - 2:55:20 PM] [indexing:1] Starting indexing job ...
+[Info  - 2:55:20 PM] [indexing:1] Workspace folders
+[Info  - 2:55:20 PM] [indexing:1]   root
+[Info  - 2:55:20 PM] [indexing:1] Scanning root for hardhat projects
+[Info  - 2:55:20 PM] [indexing:2] Starting indexing job ...
+[Info  - 2:55:20 PM] [indexing:2] Workspace folders
+[Info  - 2:55:20 PM] [indexing:2]   root
+[Info  - 2:55:20 PM] [indexing:2] Scanning root for hardhat projects

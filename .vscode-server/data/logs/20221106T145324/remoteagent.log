@@ -1,0 +1,11 @@
+2022-11-06 14:53:24.075 [info] Extension host agent started.
+2022-11-06 14:53:24.364 [info] [127.0.0.1][48625e96][ManagementConnection] New connection established.
+2022-11-06 14:53:24.926 [info] [127.0.0.1][b3e3631a][ExtensionHostConnection] New connection established.
+2022-11-06 14:53:24.934 [info] [127.0.0.1][b3e3631a][ExtensionHostConnection] <5253> Launched Extension Host Process.
+2022-11-06 14:55:20.414 [info] [127.0.0.1][48625e96][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-11-06 14:55:20.575 [info] [127.0.0.1][b3e3631a][ExtensionHostConnection] <5253> Extension Host Process exited with code: 0, signal: null.
+2022-11-06 14:55:21.930 [info] [127.0.0.1][525fda1f][ManagementConnection] New connection established.
+2022-11-06 14:55:22.342 [info] [127.0.0.1][96dacee1][ExtensionHostConnection] New connection established.
+2022-11-06 14:55:22.347 [info] [127.0.0.1][96dacee1][ExtensionHostConnection] <5319> Launched Extension Host Process.
+2022-11-06 16:43:18.096 [info] [127.0.0.1][525fda1f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-11-06 16:43:20.533 [info] [127.0.0.1][96dacee1][ExtensionHostConnection] <5319> Extension Host Process exited with code: 0, signal: null.

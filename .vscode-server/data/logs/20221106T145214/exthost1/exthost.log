@@ -1,0 +1,18 @@
+2022-11-06 14:52:16.011 [info] Extension host with pid 4930 started
+2022-11-06 14:52:16.047 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/eded074aa7d928b2842db6d2a835410a/vscode.lock': Lock acquired.
+2022-11-06 14:52:16.135 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-11-06 14:52:16.486 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-11-06 14:52:16.486 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-11-06 14:52:16.813 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-11-06 14:52:16.814 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-11-06 14:52:16.814 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-11-06 14:52:16.814 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2022-11-06 14:52:16.815 [info] Eager extensions activated
+2022-11-06 14:52:17.042 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2022-11-06 14:52:17.821 [error] Error: ENOENT: no such file or directory, scandir '/root/folder'
+2022-11-06 14:52:31.990 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2022-11-06 14:52:31.990 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2022-11-06 14:52:31.991 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2022-11-06 14:52:32.568 [info] Extension host terminating: received terminate message from renderer
+2022-11-06 14:52:32.569 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/eded074aa7d928b2842db6d2a835410a/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-11-06 14:52:32.608 [info] Extension host with pid 4930 exiting with code 0

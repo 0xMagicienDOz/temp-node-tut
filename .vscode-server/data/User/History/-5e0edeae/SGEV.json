@@ -1,0 +1,13 @@
+{
+  "kite.showWelcomeNotificationOnStartup": false,
+  "window.zoomLevel": 1,
+  "[solidity]": {
+    "editor.defaultFormatter": "NomicFoundation.hardhat-solidity"
+  },
+  "[javascript]": {
+    "editor.maxTokenizationLineLength": 2500,
+  },
+  "hardhat.telemetry": false,
+  "editor.formatOnSave": true,
+  "security.workspace.trust.untrustedFiles": "open"
+}

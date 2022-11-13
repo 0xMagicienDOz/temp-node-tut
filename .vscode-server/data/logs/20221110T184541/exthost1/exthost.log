@@ -1,0 +1,50 @@
+2022-11-10 18:45:50.846 [info] Extension host with pid 274 started
+2022-11-10 18:45:50.875 [error] Error: EEXIST: file already exists, open '/root/.vscode-server/data/User/workspaceStorage/975c43559167303c51ed537741b2a536/vscode.lock'
+2022-11-10 18:45:50.932 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/975c43559167303c51ed537741b2a536/vscode.lock': Could not acquire lock, checking if the file is stale.
+2022-11-10 18:45:50.947 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/975c43559167303c51ed537741b2a536/vscode.lock': The pid 1082 appears to be gone.
+2022-11-10 18:45:50.948 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/975c43559167303c51ed537741b2a536/vscode.lock': Deleting a stale lock.
+2022-11-10 18:45:50.982 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/975c43559167303c51ed537741b2a536/vscode.lock': Lock acquired.
+2022-11-10 18:45:52.443 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2022-11-10 18:45:52.454 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-11-10 18:45:53.633 [error] No bundle location found for extension vscode.typescript-language-features
+2022-11-10 18:45:53.633 [error] No bundle location found for extension vscode.git-base
+2022-11-10 18:45:54.915 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-11-10 18:45:54.917 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-11-10 18:45:55.271 [error] No bundle location found for extension vscode.git
+2022-11-10 18:45:56.703 [error] No bundle location found for extension vscode.github
+2022-11-10 18:45:57.192 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-11-10 18:45:57.195 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-11-10 18:45:57.197 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-11-10 18:45:57.199 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2022-11-10 18:45:57.206 [info] Eager extensions activated
+2022-11-10 18:45:57.565 [error] No bundle location found for extension vscode.debug-auto-launch
+2022-11-10 18:45:57.697 [error] No bundle location found for extension vscode.emmet
+2022-11-10 18:45:57.697 [error] No bundle location found for extension vscode.merge-conflict
+2022-11-10 18:45:57.697 [error] No bundle location found for extension vscode.npm
+2022-11-10 18:46:00.296 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2022-11-10 19:26:32.908 [error] [vscode.typescript-language-features] provider FAILED
+2022-11-10 19:26:32.908 [error] Error: <semantic> TypeScript Server Error (4.8.4)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at getCompletionEntryCodeActionsAndSourceDisplay (/root/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/extensions/node_modules/typescript/lib/tsserver.js:134906:22)
+    at Object.getCompletionEntryDetails (/root/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/extensions/node_modules/typescript/lib/tsserver.js:134844:30)
+    at Object.getCompletionEntryDetails (/root/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/extensions/node_modules/typescript/lib/tsserver.js:167314:35)
+    at /root/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/extensions/node_modules/typescript/lib/tsserver.js:179488:57
+    at Object.mapDefined (/root/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/extensions/node_modules/typescript/lib/tsserver.js:622:30)
+    at IpcIOSession.Session.getCompletionEntryDetails (/root/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/extensions/node_modules/typescript/lib/tsserver.js:179486:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/root/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/extensions/node_modules/typescript/lib/tsserver.js:178123:61)
+    at /root/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/extensions/node_modules/typescript/lib/tsserver.js:180174:96
+    at IpcIOSession.Session.executeWithRequestId (/root/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/extensions/node_modules/typescript/lib/tsserver.js:180165:28)
+    at IpcIOSession.Session.executeCommand (/root/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/extensions/node_modules/typescript/lib/tsserver.js:180174:41)
+    at IpcIOSession.Session.onMessage (/root/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/extensions/node_modules/typescript/lib/tsserver.js:180202:35)
+    at process.<anonymous> (/root/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/extensions/node_modules/typescript/lib/tsserver.js:184368:31)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+	at Function.create (/root/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/extensions/typescript-language-features/dist/extension.js:1:563013)
+	at dispatchResponse (/root/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/extensions/typescript-language-features/dist/extension.js:1:557066)
+	at dispatchMessage (/root/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/extensions/typescript-language-features/dist/extension.js:1:555934)
+	at ChildProcess.<anonymous> (/root/.vscode-server/bin/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/extensions/typescript-language-features/dist/extension.js:1:555419)
+	at ChildProcess.emit (node:events:526:28)
+	at emit (node:internal/child_process:938:14)
+	at processTicksAndRejections (node:internal/process/task_queues:84:21)

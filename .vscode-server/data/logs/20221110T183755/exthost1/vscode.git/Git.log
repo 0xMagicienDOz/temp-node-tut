@@ -1,0 +1,37 @@
+2022-11-10 18:38:08.332 [info] Validating found git in: git
+2022-11-10 18:38:08.334 [info] Using git 2.25.1 from git
+2022-11-10 18:38:08.338 [info] > git rev-parse --show-toplevel [181ms]
+2022-11-10 18:38:08.338 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-11-10 18:38:09.019 [info] > git rev-parse --show-toplevel [894ms]
+2022-11-10 18:38:09.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-11-10 18:38:09.255 [info] > git rev-parse --show-toplevel [185ms]
+2022-11-10 18:38:09.255 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-11-10 18:38:09.344 [info] > git rev-parse --show-toplevel [50ms]
+2022-11-10 18:38:09.345 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-11-10 18:38:09.520 [info] > git rev-parse --show-toplevel [66ms]
+2022-11-10 18:38:09.563 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2022-11-10 18:38:09.679 [info] Log level: Info
+2022-11-10 18:38:09.685 [info] Open repository: /root/.nvm
+2022-11-10 18:38:09.925 [info] > git rev-parse --show-toplevel [104ms]
+2022-11-10 18:38:09.926 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-11-10 18:38:09.970 [info] > git remote --verbose [220ms]
+2022-11-10 18:38:09.977 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [261ms]
+2022-11-10 18:38:10.002 [info] > git status -z -uall [218ms]
+2022-11-10 18:38:10.008 [info] > git rev-parse --show-toplevel [49ms]
+2022-11-10 18:38:10.008 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-11-10 18:38:10.041 [info] > git config --get commit.template [156ms]
+2022-11-10 18:38:10.057 [info] > git rev-parse --show-toplevel [24ms]
+2022-11-10 18:38:10.058 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-11-10 18:38:11.119 [info] > git status -z -uall [918ms]
+2022-11-10 18:38:11.121 [info] > git check-ignore -v -z --stdin [71ms]
+2022-11-10 18:38:11.136 [info] > git remote --verbose [979ms]
+2022-11-10 18:38:11.140 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1003ms]
+2022-11-10 18:38:11.157 [info] > git config --get commit.template [74ms]
+2022-11-10 18:39:20.006 [info] > git rev-parse --show-toplevel [31ms]
+2022-11-10 18:39:20.007 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-11-10 18:39:24.638 [info] > git rev-parse --show-toplevel [27ms]
+2022-11-10 18:39:24.639 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-11-10 18:39:27.850 [info] > git rev-parse --show-toplevel [29ms]
+2022-11-10 18:39:27.850 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-11-10 18:39:48.202 [info] > git rev-parse --show-toplevel [20ms]
+2022-11-10 18:39:48.202 [info] fatal: not a git repository (or any of the parent directories): .git

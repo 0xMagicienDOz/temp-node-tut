@@ -1,0 +1,27 @@
+2022-11-11 16:47:48.015 [info] Extension host with pid 374 started
+2022-11-11 16:47:48.023 [error] Error: EEXIST: file already exists, open '/root/.vscode-server/data/User/workspaceStorage/975c43559167303c51ed537741b2a536/vscode.lock'
+2022-11-11 16:47:48.034 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/975c43559167303c51ed537741b2a536/vscode.lock': Could not acquire lock, checking if the file is stale.
+2022-11-11 16:47:48.038 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/975c43559167303c51ed537741b2a536/vscode.lock': The pid 274 appears to be gone.
+2022-11-11 16:47:48.038 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/975c43559167303c51ed537741b2a536/vscode.lock': Deleting a stale lock.
+2022-11-11 16:47:48.047 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/975c43559167303c51ed537741b2a536/vscode.lock': Lock acquired.
+2022-11-11 16:47:48.234 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2022-11-11 16:47:48.237 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-11-11 16:47:48.368 [error] No bundle location found for extension vscode.typescript-language-features
+2022-11-11 16:47:48.485 [error] No bundle location found for extension vscode.git-base
+2022-11-11 16:47:48.807 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-11-11 16:47:48.808 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-11-11 16:47:48.949 [error] No bundle location found for extension vscode.git
+2022-11-11 16:47:49.318 [error] No bundle location found for extension vscode.github
+2022-11-11 16:47:49.444 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-11-11 16:47:49.445 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-11-11 16:47:49.446 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-11-11 16:47:49.447 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2022-11-11 16:47:49.448 [info] Eager extensions activated
+2022-11-11 16:47:49.590 [error] No bundle location found for extension vscode.debug-auto-launch
+2022-11-11 16:47:49.804 [error] No bundle location found for extension vscode.emmet
+2022-11-11 16:47:49.805 [error] No bundle location found for extension vscode.merge-conflict
+2022-11-11 16:47:49.805 [error] No bundle location found for extension vscode.npm
+2022-11-11 16:47:50.654 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2022-11-11 16:50:19.809 [info] Extension host terminating: received terminate message from renderer
+2022-11-11 16:50:19.810 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/975c43559167303c51ed537741b2a536/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-11-11 16:50:19.836 [info] Extension host with pid 374 exiting with code 0
